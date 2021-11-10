@@ -1,3 +1,3 @@
-# explore
-Google-IT-Professional-Certificate
+#explore 
+Git-IT-Professional-Specialization
 Git-Course 
